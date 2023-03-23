@@ -1,2 +1,2 @@
-# Machine Learning Healthcare
+# Machine Learning in Healthcare
 # AKI Slinding Window Algorithms
